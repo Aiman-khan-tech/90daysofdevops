@@ -142,8 +142,6 @@ During Day 03, I:
 
 ---
 
----
-
 # 📖 Learning Outcome
 
 Day 03 strengthened my Linux command-line fundamentals and improved my confidence in navigating, monitoring, and troubleshooting Linux systems — foundational skills for modern DevOps engineering.
