@@ -142,12 +142,6 @@ During Day 03, I:
 
 ---
 
-# 🔗 Environment Used
-
-* Ubuntu on WSL2
-* Windows 11
-* VS Code Terminal
-
 ---
 
 # 📖 Learning Outcome
