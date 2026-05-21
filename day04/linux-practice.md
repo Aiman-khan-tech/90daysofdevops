@@ -238,14 +238,6 @@ During Day 04, I:
 
 ---
 
-# 🔗 Environment Used
-
-* Ubuntu on WSL2
-* Windows 11
-* VS Code Terminal
-
----
-
 # 📖 Learning Outcome
 
 Day 04 improved my understanding of Linux process monitoring, service management, and log inspection — foundational troubleshooting skills required for modern DevOps and infrastructure operations.
