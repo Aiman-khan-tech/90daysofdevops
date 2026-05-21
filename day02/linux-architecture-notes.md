@@ -288,14 +288,6 @@ During Day 02, I:
 
 ---
 
-# 🔗 Environment Used
-
-* Ubuntu on WSL2
-* Windows 11
-* VS Code Terminal
-
----
-
 # 📖 Learning Outcome
 
 Day 02 strengthened my understanding of Linux internals, process management, and service handling — foundational concepts that are essential for modern DevOps engineering and production infrastructure management.
